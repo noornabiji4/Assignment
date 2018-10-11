@@ -1,0 +1,11 @@
+body{
+  background: slategray;
+}
+  li {
+    list-style-type: none;
+    margin: 20px; 
+  }
+  ul{
+    display: flex;
+    flex-wrap: wrap;
+  }

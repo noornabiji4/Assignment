@@ -1,0 +1,67 @@
+body{
+  background:white;
+}
+
+ol{
+ 
+
+}
+li {
+  list-style-type: none;
+  border: 5px solid black;
+}
+
+.card{
+  border: 4px solid rgb(17, 162, 219);
+  padding: 10px;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 50px;
+  background:gray;
+  border-radius: 5px;
+}
+.box{
+   margin: 1px;
+}
+.Subwoofer {
+  
+  margin-top: 20px;
+  background: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+.Non {
+  margin-top: 20px;
+  background: white;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+.Wings{
+  margin-top: 20px;
+  background: white;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+ .Beveled{
+  margin-top: 20px;
+  background: white;
+  border-radius: 5px;
+  padding: 10px;
+
+ } 
+ .Bezeled {
+  margin-top: 20px;
+  background: white;
+  border-radius: 5px;
+  padding: 10px;
+
+ }
+ .Seedless{
+  margin-top: 20px;
+  background: white;
+  border-radius: 5px;
+  padding: 10px;
+
+ }

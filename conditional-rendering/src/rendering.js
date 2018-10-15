@@ -7,13 +7,9 @@ class Rendering extends React.Component{
 
        
         return(
-            <div>
-                {/* <ol>                {num.map((li)=>{
-                    return <li>{li}</li>
-                })}
-                {/* </ol> */}
-                {num =(num>=arr)? num.push(arr):"not 100"}
-
+            <div className="arr">
+               
+                {num =(num>=arr)? "that is 100":"that is not 100"}
                 
             </div>
 

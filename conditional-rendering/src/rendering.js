@@ -1,15 +1,15 @@
-import React from 'react'
+import React, { Component } from 'react';
 
-class Rendering extends React.Component{
+class Rendering extends Component{
     render(){
-        var num = 100;
-        var arr=[];
+        var num = prompt("enter a number");
+ 
 
        
         return(
             <div className="arr">
                
-                {num =(num>=arr)? "that is 100":"that is not 100"}
+                {(num>0)? "Positive":"Negative"}
                 
             </div>
 
